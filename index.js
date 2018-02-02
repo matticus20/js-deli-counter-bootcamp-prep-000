@@ -1,7 +1,8 @@
 var katzDeliLine = []
 
 function takeANumber(katzDeliLine, newName) {
-  while () {
+  var counter = 0
+  while (counter < newName.length) {
     
   }
 }

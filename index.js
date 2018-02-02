@@ -18,4 +18,5 @@ function currentLine(katzDeliLine) {
   for (let i = 0; i < katzDeliLine.length; i++) {
     newArray = [`${i+1}. ${newName}`]
   }
+  return 
 }

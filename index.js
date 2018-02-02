@@ -14,8 +14,8 @@ function nowServing(katzDeliLine) {
 }
 
 function currentLine(katzDeliLine) {
-  
-  if (katzDeliLine.length > 0) {
+  var newArray = []
+  for (let i = 0; katzDeliLine.length > 0) {
     
   }
 }
